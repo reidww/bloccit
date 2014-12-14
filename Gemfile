@@ -50,3 +50,5 @@ gem 'spring',        group: :development
 gem 'byebug', group: [:development, :test]
 
 gem 'devise'
+
+gem 'figaro', '1.0'
